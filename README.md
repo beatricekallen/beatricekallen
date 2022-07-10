@@ -1,5 +1,7 @@
 ## Hi there! 👋
 
+### A little bit about me:
+
 :computer: I'm a full-stack web developer with a passion for creativity and collaboration. 
 
 :books: I have over ten years of experience in the publishing industry. I also have several years' experience in project management and team management. 
